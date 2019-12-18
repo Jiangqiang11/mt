@@ -1,4 +1,4 @@
-package com.jq.mt_data_view.common;
+package com.jq.mt_data_view.controler;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
